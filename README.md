@@ -1,2 +1,2 @@
 # Fibonacci-Loop
-simple c program prints the Fibonacci sequence with the capability of int
+a simple C program that prints the Fibonacci sequence within the limits of a long long int
